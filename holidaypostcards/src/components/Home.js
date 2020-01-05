@@ -115,7 +115,11 @@ const Home = (props) =>{
             <h4 style={{color: "white"}}>Enter your greeting code below</h4>
             <Form onSubmit={onSubmit}>
                 <Input name="code" id="code" onChange={handleChange} value={code} placeholder="enter code here"/>
-                <Btn><TheLink to={`/card/${id}`}>Get your Card!</TheLink></Btn>
+                <Btn onClick={(e)=>{
+                    e.preventDefault();
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                }
+                }><TheLink to={`/card/${id}`}>Get your Card!</TheLink></Btn>
             </Form>
             <p style={{color: "white", background: "rgba(0,0,0,0.5)", borderRadius: "5px", padding: "1% 2%"}}>Try entering "christmas", "holiday", or "hannukah"</p>
             {/* </Div> */}
