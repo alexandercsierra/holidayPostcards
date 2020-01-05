@@ -116,6 +116,7 @@ const Home = (props) =>{
                 <Input name="code" id="code" onChange={handleChange} value={code} placeholder="enter code here"/>
                 <Btn><TheLink to={`/card/${id}`}>Get your Card!</TheLink></Btn>
             </Form>
+            <p style={{color: "white", background: "rgba(0,0,0,0.5)", borderRadius: "5px", padding: "1% 2%"}}>Try entering "christmas", "holiday", or "hannukah"</p>
             {/* </Div> */}
         </Container>
     )
