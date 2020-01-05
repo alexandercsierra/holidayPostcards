@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/holidayPostcards/precache-manifest.1657b03fda04c49bce0ee0aa2125262d.js"
+  "/holidayPostcards/precache-manifest.8f8ebf1292755a810be313b152f1be5e.js"
 );
 
 self.addEventListener('message', (event) => {

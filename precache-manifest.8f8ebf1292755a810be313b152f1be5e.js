@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e0149efb87f1e1e4078e047337c5e82",
+    "revision": "09acbdd7baeec31820bc80129b5334b3",
     "url": "/holidayPostcards/index.html"
   },
   {
-    "revision": "07134185698cfbbb6c28",
+    "revision": "b881b1a1e806f03f51aa",
     "url": "/holidayPostcards/static/css/main.203b4a6a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/holidayPostcards/static/js/2.2cce00d1.chunk.js.LICENSE"
   },
   {
-    "revision": "07134185698cfbbb6c28",
-    "url": "/holidayPostcards/static/js/main.8b98f259.chunk.js"
+    "revision": "b881b1a1e806f03f51aa",
+    "url": "/holidayPostcards/static/js/main.cda9ca9a.chunk.js"
   },
   {
     "revision": "39d4a0061aafd32e2d10",
