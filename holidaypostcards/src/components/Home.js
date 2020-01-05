@@ -92,7 +92,8 @@ const Home = (props) =>{
 
     const [code, setCode] = useState("");
     useEffect(()=>{
-        setId(code);
+        let lowerCode = code.toLowerCase();
+        setId(lowerCode);
     }, [code])
 
     function onSubmit(e){

@@ -52,16 +52,9 @@ const Card = (props) => {
         <Div>
             <H1 style={{color:`${textColor}`}}>Tap or click to flip</H1>
             
-            {holiday === "hannukah" && <PostcardHan code={code} url={"https://www.youtube.com/embed/WjOJis4UR44"}/>}
+            {holiday === "hannukah" && <PostcardHan code={code} url={"https://www.youtube.com/embed/CdaKdzp2JLw"}/>}
             {holiday === "christmas" && <PostcardChris url={"https://www.youtube.com/embed/MswymGTFYbw"}/>}
             {holiday === "holiday" && <PostcardHol url={"https://www.youtube.com/embed/XI9j2uriw8o"}/>}
-
-
-
-
-
-
-
             
         </Div>
     )
