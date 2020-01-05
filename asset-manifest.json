@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/holidaypostcards/static/css/main.4769309b.chunk.css",
+    "main.js": "/holidaypostcards/static/js/main.90ea4d3a.chunk.js",
+    "main.js.map": "/holidaypostcards/static/js/main.90ea4d3a.chunk.js.map",
+    "runtime-main.js": "/holidaypostcards/static/js/runtime-main.1e0d2c5d.js",
+    "runtime-main.js.map": "/holidaypostcards/static/js/runtime-main.1e0d2c5d.js.map",
+    "static/js/2.4f93cdfb.chunk.js": "/holidaypostcards/static/js/2.4f93cdfb.chunk.js",
+    "static/js/2.4f93cdfb.chunk.js.map": "/holidaypostcards/static/js/2.4f93cdfb.chunk.js.map",
+    "index.html": "/holidaypostcards/index.html",
+    "precache-manifest.0988439478bb2d2bab8612dcbcc69c41.js": "/holidaypostcards/precache-manifest.0988439478bb2d2bab8612dcbcc69c41.js",
+    "service-worker.js": "/holidaypostcards/service-worker.js",
+    "static/css/main.4769309b.chunk.css.map": "/holidaypostcards/static/css/main.4769309b.chunk.css.map",
+    "static/js/2.4f93cdfb.chunk.js.LICENSE": "/holidaypostcards/static/js/2.4f93cdfb.chunk.js.LICENSE",
+    "static/media/back.jpg": "/holidaypostcards/static/media/back.3a170548.jpg",
+    "static/media/hannukard.jpg": "/holidaypostcards/static/media/hannukard.8eaa606d.jpg",
+    "static/media/holidaycard.jpg": "/holidaypostcards/static/media/holidaycard.0c122b51.jpg",
+    "static/media/App.css": "/holidaypostcards/static/media/wood.9409dffe.jpg",
+    "static/media/lights.jpg": "/holidaypostcards/static/media/lights.872d26c1.jpg",
+    "static/media/logo.svg": "/holidaypostcards/static/media/logo.5d5d9eef.svg",
+    "static/media/nolinesback.jpg": "/holidaypostcards/static/media/nolinesback.f6bd42da.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e0d2c5d.js",
+    "static/js/2.4f93cdfb.chunk.js",
+    "static/css/main.4769309b.chunk.css",
+    "static/js/main.90ea4d3a.chunk.js"
+  ]
+}
