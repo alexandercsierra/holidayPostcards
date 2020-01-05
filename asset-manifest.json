@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/holidayPostcards/static/css/main.203b4a6a.chunk.css",
-    "main.js": "/holidayPostcards/static/js/main.2f33620a.chunk.js",
-    "main.js.map": "/holidayPostcards/static/js/main.2f33620a.chunk.js.map",
+    "main.js": "/holidayPostcards/static/js/main.8b98f259.chunk.js",
+    "main.js.map": "/holidayPostcards/static/js/main.8b98f259.chunk.js.map",
     "runtime-main.js": "/holidayPostcards/static/js/runtime-main.8ad830a0.js",
     "runtime-main.js.map": "/holidayPostcards/static/js/runtime-main.8ad830a0.js.map",
     "static/js/2.2cce00d1.chunk.js": "/holidayPostcards/static/js/2.2cce00d1.chunk.js",
     "static/js/2.2cce00d1.chunk.js.map": "/holidayPostcards/static/js/2.2cce00d1.chunk.js.map",
     "index.html": "/holidayPostcards/index.html",
-    "precache-manifest.15170a5e30c87fb94baef1dc82f7a30e.js": "/holidayPostcards/precache-manifest.15170a5e30c87fb94baef1dc82f7a30e.js",
+    "precache-manifest.1657b03fda04c49bce0ee0aa2125262d.js": "/holidayPostcards/precache-manifest.1657b03fda04c49bce0ee0aa2125262d.js",
     "service-worker.js": "/holidayPostcards/service-worker.js",
     "static/css/main.203b4a6a.chunk.css.map": "/holidayPostcards/static/css/main.203b4a6a.chunk.css.map",
     "static/js/2.2cce00d1.chunk.js.LICENSE": "/holidayPostcards/static/js/2.2cce00d1.chunk.js.LICENSE",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.8ad830a0.js",
     "static/js/2.2cce00d1.chunk.js",
     "static/css/main.203b4a6a.chunk.css",
-    "static/js/main.2f33620a.chunk.js"
+    "static/js/main.8b98f259.chunk.js"
   ]
 }
